@@ -1,1 +1,1 @@
-# solidity-fundamentals
+# Solidity Fundamentals
